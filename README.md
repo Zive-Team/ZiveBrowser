@@ -1,4 +1,6 @@
- 🌐 Zive browser (ザイヴ ブラウザ)
+## Zive browser (ザイヴ ブラウザ)
+
+---------------------------------
 
 **Zive browser** は、HTML/CSS/JavaScript（Electron）を活用して開発された、圧倒的な使いやすさと強固なプライバシー保護を両立した次世代のマルチタブ型Webブラウザです。
 
