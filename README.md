@@ -1,9 +1,5 @@
  🌐 Zive browser (ザイヴ ブラウザ)
 
-[![Electron](https://shields.io)](https://electronjs.org)
-[![License](https://shields.io)](LICENSE)
-[![Platform](https://shields.io)]()
-
 **Zive browser** は、HTML/CSS/JavaScript（Electron）を活用して開発された、圧倒的な使いやすさと強固なプライバシー保護を両立した次世代のマルチタブ型Webブラウザです。
 
 Google Chromeに近い直感的なUI（ユーザーインターフェース）を備え、現代の法律・セキュリティ要件に準拠したセキュアなブラウジング体験を提供します。
